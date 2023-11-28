@@ -7,3 +7,6 @@
 [submodule "server/parse-b4a"]
 	path = server/parse-b4a
 	url = https://github.com/Owusu-Bible/mannysbible-server.git
+[submodule "app/rn/lib/israel-calendar"]
+	path = app/rn/lib/israel-calendar
+	url = https://github.com/Owusu-Bible/react-native-calendars
